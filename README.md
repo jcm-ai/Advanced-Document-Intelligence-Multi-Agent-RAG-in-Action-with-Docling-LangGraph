@@ -1,1 +1,1 @@
-# Advanced-Document-Intelligence-Multi-Agent-RAG-in-Action-with-Docling-LangGraph
+# Advanced Document Intelligence: Multi Agent RAG in Action with Docling LangGraph
